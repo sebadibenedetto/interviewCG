@@ -1,0 +1,5 @@
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.ViewModels\bin\Debug\TheCorcoranGroup.ViewModels.dll
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.ViewModels\bin\Debug\TheCorcoranGroup.ViewModels.pdb
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.ViewModels\obj\Debug\TheCorcoranGroup.ViewModels.csprojResolveAssemblyReference.cache
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.ViewModels\obj\Debug\TheCorcoranGroup.ViewModels.dll
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.ViewModels\obj\Debug\TheCorcoranGroup.ViewModels.pdb

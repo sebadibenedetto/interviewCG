@@ -1,0 +1,8 @@
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Test\bin\Debug\TheCorcoranGroup.Test.dll
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Test\bin\Debug\TheCorcoranGroup.Test.pdb
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Test\bin\Debug\TheCorcoranGroup.DLL.dll
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Test\bin\Debug\TheCorcoranGroup.DLL.pdb
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Test\obj\Debug\TheCorcoranGroup.Test.csprojResolveAssemblyReference.cache
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Test\obj\Debug\TheCorcoranGroup.Test.dll
+c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Test\obj\Debug\TheCorcoranGroup.Test.pdb
