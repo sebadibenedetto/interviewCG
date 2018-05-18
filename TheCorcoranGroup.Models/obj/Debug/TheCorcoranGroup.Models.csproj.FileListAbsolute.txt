@@ -3,3 +3,8 @@ c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DL
 c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Models\obj\Debug\TheCorcoranGroup.Models.csprojResolveAssemblyReference.cache
 c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Models\obj\Debug\TheCorcoranGroup.Models.dll
 c:\users\s.dibenedetto\documents\visual studio 2015\Projects\TheCorcoranGroup.DLL\TheCorcoranGroup.Models\obj\Debug\TheCorcoranGroup.Models.pdb
+C:\Users\s.dibenedetto\Documents\Visual Studio 2015\Projects\TheCorcoranGroup\TheCorcoranGroup.Models\bin\Debug\TheCorcoranGroup.Models.dll
+C:\Users\s.dibenedetto\Documents\Visual Studio 2015\Projects\TheCorcoranGroup\TheCorcoranGroup.Models\bin\Debug\TheCorcoranGroup.Models.pdb
+C:\Users\s.dibenedetto\Documents\Visual Studio 2015\Projects\TheCorcoranGroup\TheCorcoranGroup.Models\obj\Debug\TheCorcoranGroup.Models.csprojResolveAssemblyReference.cache
+C:\Users\s.dibenedetto\Documents\Visual Studio 2015\Projects\TheCorcoranGroup\TheCorcoranGroup.Models\obj\Debug\TheCorcoranGroup.Models.dll
+C:\Users\s.dibenedetto\Documents\Visual Studio 2015\Projects\TheCorcoranGroup\TheCorcoranGroup.Models\obj\Debug\TheCorcoranGroup.Models.pdb
